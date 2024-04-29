@@ -6,9 +6,9 @@
 days_in_week =["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" ]
 
 # Print days on even indices
-for index, in ('days_in_week'):
+for index in ('days_in_week'):
     
-    if index % 2 == 0:
+    if index% 2 == 0:
         
         print(day)
         
